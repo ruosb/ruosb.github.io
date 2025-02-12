@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ruosb.csgad.com/cAj/sitemap.xml.gz
